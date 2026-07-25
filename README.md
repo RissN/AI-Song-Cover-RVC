@@ -20,6 +20,10 @@ Read this [tutorial](https://noteardha.notion.site/noteardha/RVC-Training-69e456
 
 ## 🆕 [FIXED 2026] AICoverGen Mod by ardha27, Hina & fixed by RissN for Python 3.12 (Colab Free)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RissN/AI-Song-Cover-RVC/blob/main/Hina_Mod_AICoverGen_fixed.ipynb)
+
+## 🆕 [FIXED 2026] AICoverGen Mod Without UI / No UI (Colab Free - Anti Ban)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RissN/AI-Song-Cover-RVC/blob/main/Hina_Mod_AICoverGen_NoUI.ipynb)
+
 ## AICoverGen by SociallyIneptWeeb (Without UI, Colab Pro Only)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ardha27/AICoverGen-NoUI-Colab/blob/main/CoverGen_No_UI.ipynb)
 
