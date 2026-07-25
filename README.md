@@ -1,10 +1,6 @@
 # AI-Song-Cover-RVC
 Everything you need for RVC voice covers in one place, run on Google Colab or Kaggle: download YouTube audio as WAV, separate vocals, split audio, train models, and run inference.
 ## Make Sure To Leave A Star If This Repo Was Helpful :)
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R7AH1FA)
-<a href="https://trakteer.id/ardha27">
-    <img src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" alt="Trakteer" height="35">
-</a>
 
 ## Tutorial (Indonesian)
 ### RVC Colab Free Tutorial (Training & Inference)
@@ -13,14 +9,14 @@ Everything you need for RVC voice covers in one place, run on Google Colab or Ka
 - https://www.youtube.com/watch?v=Nd2b-MEynAg
 
 ## Download YouTube WAV and Splitting Audio
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ardha27/AI-Song-Cover-RVC/blob/main/Download_Youtube_WAV_and_Splitting_Audio.ipynb)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RissN/AI-Song-Cover-RVC/blob/main/Download_Youtube_WAV_and_Splitting_Audio.ipynb)
 
 ## Training Without UI/Gradio, Prevent Banning (Colab Free)
 Read this [tutorial](https://noteardha.notion.site/noteardha/RVC-Training-69e4569b10ee429aae2a41bfb4bb18cc)
 ### Download Training Assets
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ardha27/AI-Song-Cover-RVC/blob/main/Download_Training_Assets.ipynb)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RissN/AI-Song-Cover-RVC/blob/main/Download_Training_Assets.ipynb)
 ### Run Training (Run the Asset Download Above First)
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ardha27/AI-Song-Cover-RVC/blob/main/TrainingV2_NoUI.ipynb)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RissN/AI-Song-Cover-RVC/blob/main/TrainingV2_NoUI.ipynb)
 
 ## 🆕 [FIXED 2026] AICoverGen Mod by ardha27, Hina & fixed by RissN for Python 3.12 (Colab Free)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RissN/AI-Song-Cover-RVC/blob/main/Hina_Mod_AICoverGen_fixed.ipynb)
@@ -29,3 +25,10 @@ Read this [tutorial](https://noteardha.notion.site/noteardha/RVC-Training-69e456
 
 ## Training V2 with YouTube Audio Download and Splitting, Combined by MinatoIsuki (With UI, Colab Pro Only)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MinatoIsuki/AI-Song-Cover-RVC/blob/main/Training_V2_and_Youtube_Audio_Download_%26_Splitting_Audio_combined.ipynb)
+
+## Credits
+* Original repository and tutorials by [ardha27](https://github.com/ardha27)
+* Support the original author: 
+  * [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R7AH1FA)
+  * <a href="https://trakteer.id/ardha27"><img src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" alt="Trakteer" height="35"></a>
+* AICoverGen Mod originally by Hina and ardha27, updated for Python 3.12 by [RissN](https://github.com/RissN).
