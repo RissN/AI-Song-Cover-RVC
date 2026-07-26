@@ -18,7 +18,7 @@ Read this [tutorial](https://noteardha.notion.site/noteardha/RVC-Training-69e456
 ### Run Training (Run the Asset Download Above First)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RissN/AI-Song-Cover-RVC/blob/main/TrainingV2_NoUI.ipynb)
 
-## 💻 Local App (If Colab Error / Free Tier Limit)
+## Local App (If Colab Error)
 Jika Anda terkena limit *Free Tier* atau peringatan penggunaan di Google Colab, Anda bisa menjalankan AICoverGen secara lokal di komputer Windows Anda.
 1. Buka folder `Local_App`
 2. Jalankan `setup.bat` untuk menginstal semua kebutuhan.
