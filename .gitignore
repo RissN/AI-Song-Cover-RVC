@@ -1,0 +1,14 @@
+venv/
+Local_App/venv/
+__pycache__/
+*.pyc
+.env
+.vscode/
+
+# Models and Weights
+*.pth
+*.pt
+*.onnx
+*.index
+Local_App/rvc_models/
+Local_App/mdxnet_models/
