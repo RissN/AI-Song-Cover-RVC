@@ -18,11 +18,11 @@ Read this [tutorial](https://noteardha.notion.site/noteardha/RVC-Training-69e456
 ### Run Training (Run the Asset Download Above First)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RissN/AI-Song-Cover-RVC/blob/main/TrainingV2_NoUI.ipynb)
 
-## Local App (If Colab Error)
-Jika Anda terkena limit *Free Tier* atau peringatan penggunaan di Google Colab, Anda bisa menjalankan AICoverGen secara lokal di komputer Windows Anda.
-1. Buka folder `Local_App`
-2. Jalankan `setup.bat` untuk menginstal semua kebutuhan.
-3. Setelah instalasi selesai, jalankan `run.bat` untuk membuka antarmuka WebUI.
+## 💻 Local App (If Colab Error / Free Tier Limit)
+If you hit the *Free Tier* limit or get a usage warning on Google Colab, you can run AICoverGen locally on your Windows computer.
+1. Open the `Local_App` folder
+2. Run `setup.bat` to install all requirements.
+3. After the installation is complete, run `run.bat` to open the WebUI interface.
 
 ## [FIXED 2026] AICoverGen Mod by ardha27, Hina & fixed by RissN for Python 3.12 (Colab Pro)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RissN/AI-Song-Cover-RVC/blob/main/Hina_Mod_AICoverGen_fixed.ipynb)
